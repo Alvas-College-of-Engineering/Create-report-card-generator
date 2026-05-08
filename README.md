@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Report Card Generator
 
 A simple Java + Swing application that generates report cards without any external dependencies.
@@ -50,3 +51,7 @@ java -cp bin com.reportcard.Main
 - **C**: 70-79
 - **D**: 60-69
 - **F**: Below 60
+=======
+# Create-report-card-generator
+Create report card generator
+>>>>>>> fa31ad786f4646e13ac1b0cd1164b8ad1d8daf99
